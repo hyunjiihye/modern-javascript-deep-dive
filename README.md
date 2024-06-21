@@ -13,7 +13,7 @@
   <tr>
     <td>1. 프로그래밍</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td href="https://hazel-blog.tistory.com/8">티스토리</td>
   </tr>
   <tr>
     <td>2. 자바스크립트란</td>
