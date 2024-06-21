@@ -13,47 +13,47 @@
   <tr>
     <td>1. 프로그래밍</td>
     <td>ㅇㅇㅇ</td>
-    <td href="https://hazel-blog.tistory.com/8">티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
   <tr>
     <td>2. 자바스크립트란</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
     <tr>
     <td>3. 자바스크립트 개발 환경과 살행 방법</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
     <tr>
     <td>4. 변수</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
     <td>5. 표현식과 문</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
     <td>6. 데이터 타입</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
     <td>7. 연산자</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
     <td>8. 제어문</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
     <td>9. 타입 변환과 단축 평가</td>
     <td>ㅇㅇㅇ</td>
-    <td>티스토리</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
     <td>10. 객체 리터럴</td>
