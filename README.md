@@ -57,43 +57,43 @@
   </tr>
     <tr>
     <td>10. 객체 리터럴</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/11)</td>
   </tr>
     <tr>
     <td>11. 원시 값과 객체의 비교</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/11)</td>
   </tr>
     <tr>
     <td>12. 함수</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
     <td>13. 스코프</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
     <td>14. 전역변수의 문제점</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
     <td>15. let, const 키워드와 블록 레벨 스코프</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
     <td>16. 프로퍼티 어트리뷰트</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
     <td>17. 생성자 함수에 의한 객체 생성</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
     <td>18. 함수와 일급 객체</td>
