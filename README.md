@@ -97,8 +97,8 @@
   </tr>
     <tr>
     <td>18. 함수와 일급 객체</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
     <td>19. 프로토타입</td>
