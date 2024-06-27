@@ -102,8 +102,8 @@
   </tr>
     <tr>
     <td>19. 프로토타입</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/14)</td>
   </tr>
     <tr>
     <td>20. strict mode</td>
