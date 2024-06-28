@@ -122,13 +122,13 @@
   </tr>
     <tr>
     <td>23. 실행 컨텍스트✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/16)</td>
   </tr>
     <tr>
     <td>24. 클로저✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/16)</td>
   </tr>
     <tr>
     <td>25. 클래스✨✨</td>
