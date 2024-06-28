@@ -132,13 +132,13 @@
   </tr>
     <tr>
     <td>25. 클래스✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/17)</td>
   </tr>
     <tr>
     <td>26. ES6함수의 추가기능✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/18)</td>
   </tr>
     <tr>
     <td>27. 배열✨✨✨</td>
