@@ -11,77 +11,77 @@
     <th>해당 링크</th>
   </tr>
   <tr>
-    <td>1. 프로그래밍</td>
+    <td>1. 프로그래밍✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
   <tr>
-    <td>2. 자바스크립트란</td>
+    <td>2. 자바스크립트란✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
     <tr>
-    <td>3. 자바스크립트 개발 환경과 살행 방법</td>
+    <td>3. 자바스크립트 개발 환경과 살행 방법✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/8)</td>
   </tr>
     <tr>
-    <td>4. 변수</td>
+    <td>4. 변수✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
-    <td>5. 표현식과 문</td>
+    <td>5. 표현식과 문✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
-    <td>6. 데이터 타입</td>
+    <td>6. 데이터 타입✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/9)</td>
   </tr>
     <tr>
-    <td>7. 연산자</td>
+    <td>7. 연산자✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
-    <td>8. 제어문</td>
+    <td>8. 제어문✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
-    <td>9. 타입 변환과 단축 평가</td>
+    <td>9. 타입 변환과 단축 평가✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/10)</td>
   </tr>
     <tr>
-    <td>10. 객체 리터럴</td>
+    <td>10. 객체 리터럴✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/11)</td>
   </tr>
     <tr>
-    <td>11. 원시 값과 객체의 비교</td>
+    <td>11. 원시 값과 객체의 비교✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/11)</td>
   </tr>
     <tr>
-    <td>12. 함수</td>
+    <td>12. 함수✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
-    <td>13. 스코프</td>
+    <td>13. 스코프✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
-    <td>14. 전역변수의 문제점</td>
+    <td>14. 전역변수의 문제점✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
     <tr>
-    <td>15. let, const 키워드와 블록 레벨 스코프</td>
+    <td>15. let, const 키워드와 블록 레벨 스코프✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/12)</td>
   </tr>
@@ -91,17 +91,17 @@
     <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
-    <td>17. 생성자 함수에 의한 객체 생성</td>
+    <td>17. 생성자 함수에 의한 객체 생성✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
-    <td>18. 함수와 일급 객체</td>
+    <td>18. 함수와 일급 객체✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/13)</td>
   </tr>
     <tr>
-    <td>19. 프로토타입</td>
+    <td>19. 프로토타입✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/14)</td>
   </tr>
@@ -111,147 +111,147 @@
     <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
-    <td>21. 빌트인 객체</td>
+    <td>21. 빌트인 객체✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
-    <td>22. this</td>
+    <td>22. this✨✨</td>
     <td>☑️</td>
     <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
-    <td>23. 실행 컨텍스트</td>
+    <td>23. 실행 컨텍스트✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>24. 클로저</td>
+    <td>24. 클로저✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>25. 클래스</td>
+    <td>25. 클래스✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>26. ES6함수의 추가기능</td>
+    <td>26. ES6함수의 추가기능✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>27. 배열</td>
+    <td>27. 배열✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>28. Number</td>
+    <td>28. Number✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>29. Math</td>
+    <td>29. Math✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>30. Date</td>
+    <td>30. Date✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>31. RegExp</td>
+    <td>31. RegExp✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>32. String</td>
+    <td>32. String✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>33. 7번째 데이터 타입 Symbol</td>
+    <td>33. 7번째 데이터 타입 Symbol✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>34. 이터러블</td>
+    <td>34. 이터러블✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>35. 스프레드 문법</td>
+    <td>35. 스프레드 문법✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>36. 디스트럭처링 할당</td>
+    <td>36. 디스트럭처링 할당✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>37. Set과 Map</td>
+    <td>37. Set과 Map✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>38. 브라우저의 렌더링 과정</td>
+    <td>38. 브라우저의 렌더링 과정✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>39. DOM</td>
+    <td>39. DOM✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>40. 이벤트</td>
+    <td>40. 이벤트✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>41. 타이머</td>
+    <td>41. 타이머✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>42. 비동기 프로그래밍</td>
+    <td>42. 비동기 프로그래밍✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>43. Ajax</td>
+    <td>43. Ajax✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>44. Rest API</td>
+    <td>44. Rest API✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>45. 프로미스</td>
+    <td>45. 프로미스✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
       <tr>
-    <td>46. 제너레이터와 async/await</td>
+    <td>46. 제너레이터와 async/await✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>47. 에러 처리</td>
+    <td>47. 에러 처리✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
     <tr>
-    <td>48. 모듈</td>
+    <td>48. 모듈✨✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
       <tr>
-    <td>49. babel과 webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축</td>
+    <td>49. babel과 webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축✨✨</td>
     <td>🟪</td>
     <td>티스토리</td>
   </tr>
@@ -259,7 +259,12 @@
 
 <hr>
 <h3>
-  2. 내용 정리
+  2. 자바스크립트에서 가장 중요한 거( 여러번 봐야될 부분)
+  ✨ 스코프
+  ✨ 프로미스
+  ✨ 실행 컨텍스트
+  ✨ 호출 스택
+  ✨ this
 </h3>
 
 
