@@ -142,8 +142,8 @@
   </tr>
     <tr>
     <td>27. 배열✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/18)</td>
   </tr>
     <tr>
     <td>28. Number✨✨</td>
