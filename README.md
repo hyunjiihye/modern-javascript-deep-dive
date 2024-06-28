@@ -107,18 +107,18 @@
   </tr>
     <tr>
     <td>20. strict mode</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
     <td>21. 빌트인 객체</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
     <td>22. this</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/15)</td>
   </tr>
     <tr>
     <td>23. 실행 컨텍스트</td>
