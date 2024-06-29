@@ -167,18 +167,18 @@
   </tr>
     <tr>
     <td>32. String✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/20)</td>
   </tr>
     <tr>
     <td>33. 7번째 데이터 타입 Symbol✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/20)</td>
   </tr>
     <tr>
     <td>34. 이터러블✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/20)</td>
   </tr>
     <tr>
     <td>35. 스프레드 문법✨✨</td>
