@@ -182,18 +182,18 @@
   </tr>
     <tr>
     <td>35. 스프레드 문법✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/21)</td>
   </tr>
     <tr>
     <td>36. 디스트럭처링 할당✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/21)</td>
   </tr>
     <tr>
     <td>37. Set과 Map✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/21)</td>
   </tr>
     <tr>
     <td>38. 브라우저의 렌더링 과정✨✨✨</td>
