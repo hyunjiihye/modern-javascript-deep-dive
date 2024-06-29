@@ -147,23 +147,23 @@
   </tr>
     <tr>
     <td>28. Number✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/19)</td>
   </tr>
     <tr>
     <td>29. Math✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/19)</td>
   </tr>
     <tr>
     <td>30. Date✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/19)</td>
   </tr>
     <tr>
     <td>31. RegExp✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/19)</td>
   </tr>
     <tr>
     <td>32. String✨✨</td>
