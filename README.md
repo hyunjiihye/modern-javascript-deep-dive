@@ -197,23 +197,23 @@
   </tr>
     <tr>
     <td>38. 브라우저의 렌더링 과정✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/22)</td>
   </tr>
     <tr>
     <td>39. DOM✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/22)</td>
   </tr>
     <tr>
     <td>40. 이벤트✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/22)</td>
   </tr>
     <tr>
     <td>41. 타이머✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/22)</td>
   </tr>
     <tr>
     <td>42. 비동기 프로그래밍✨✨</td>
