@@ -217,18 +217,18 @@
   </tr>
     <tr>
     <td>42. 비동기 프로그래밍✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/23)</td>
   </tr>
     <tr>
     <td>43. Ajax✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/23)</td>
   </tr>
     <tr>
     <td>44. Rest API✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/23)</td>
   </tr>
     <tr>
     <td>45. 프로미스✨✨✨</td>
