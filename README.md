@@ -248,12 +248,12 @@
     <tr>
     <td>48. 모듈✨✨✨</td>
     <td>☑️</td>
-    <td>[티스토리](https://hazel-blog.tistory.com/25)</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/27)</td>
   </tr>
       <tr>
     <td>49. babel과 webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축✨✨</td>
     <td>☑️</td>
-    <td>[티스토리](https://hazel-blog.tistory.com/25)</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/27)</td>
   </tr>
 </table>
 
