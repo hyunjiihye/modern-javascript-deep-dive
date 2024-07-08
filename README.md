@@ -232,28 +232,28 @@
   </tr>
     <tr>
     <td>45. 프로미스✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
   </tr>
       <tr>
     <td>46. 제너레이터와 async/await✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
   </tr>
     <tr>
     <td>47. 에러 처리✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
   </tr>
     <tr>
     <td>48. 모듈✨✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/25)</td>
   </tr>
       <tr>
     <td>49. babel과 webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축✨✨</td>
-    <td>🟪</td>
-    <td>티스토리</td>
+    <td>☑️</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/25)</td>
   </tr>
 </table>
 
