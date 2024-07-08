@@ -233,17 +233,17 @@
     <tr>
     <td>45. 프로미스✨✨✨</td>
     <td>☑️</td>
-    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/26)</td>
   </tr>
       <tr>
     <td>46. 제너레이터와 async/await✨</td>
     <td>☑️</td>
-    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/26)</td>
   </tr>
     <tr>
     <td>47. 에러 처리✨✨✨</td>
     <td>☑️</td>
-    <td>[티스토리](https://hazel-blog.tistory.com/24)</td>
+    <td>[티스토리](https://hazel-blog.tistory.com/26)</td>
   </tr>
     <tr>
     <td>48. 모듈✨✨✨</td>
